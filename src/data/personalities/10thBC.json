@@ -1,0 +1,110 @@
+﻿{
+  "1000BC-972BC": {
+    "name": {
+      "fr": "DAVID"
+    },
+    "type": "ruler",
+    "description": {
+      "fr": "Roi de Juda. Unit Juda et Israël en un Etat national (\"Juda\"). Favorisa le développement des particularismes religieux et spirituels des tribus unifiées. Mena une série de guerres victorieuses contre ses voisins. Fut également vénéré comme poète."
+    }
+  },
+  "999BC-936BC": {
+    "name": {
+      "fr": "HIRAM"
+    },
+    "description": {
+      "fr": "Roi phénicien. Agrandit et fortifia la ville insulaire de Tyr sur la côte occidentale d'Asie Antérieure. Accentua son rôle d'intermédiaire entre Orient et Occident et fit, de cet ancien terminus des routes de caravanes d'Asie Antérieure, le grand centre commercial du bassin méditerranéen. Établit des comptoirs jusqu'en Italie, Espagne, Afrique occidentale, Angleterre. Chercha à développer les voies commerciales par la construction d'une flotte en Mer Rouge pour le roi Salomon sur l'ordre de qui il se rendit au pays de l'or au \"Ophir\" (Abyssinie)."
+    },
+    "type": "ruler"
+  },
+  "986BC-907BC": {
+    "name": {
+      "fr": "MOU-WANG"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "ruler"
+  },
+  "981BC-918BC": {
+    "name": {
+      "fr": "AHIJA"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "religious"
+  },
+  "976BC-924BC": {
+    "name": {
+      "fr": "SHESHOUNQ 1er"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "ruler"
+  },
+  "964BC-912BC": {
+    "name": {
+      "fr": "JÉROGOAM"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "ruler"
+  },
+  "959BC-916BC": {
+    "name": {
+      "fr": "ROBOAM"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "ruler"
+  },
+  "943BC-890BC": {
+  "name": {
+    "fr": "ADAD NIRARI II"
+  },
+  "description": {
+    "fr": "missing"
+  },
+  "type": "ruler"
+},
+  "930BC-871BC": {
+    "name": {
+      "fr": "OMRI"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "ruler"
+  },
+  "927BC-850BC": {
+    "name": {
+      "fr": "ELIE"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "religious"
+  },
+  "912BC-860BC": {
+    "name": {
+      "fr": "ASSUR NASIR-APLI II"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "ruler"
+  },
+  "905BC-850BC": {
+    "name": {
+      "fr": "ACHAB"
+    },
+    "description": {
+      "fr": "missing"
+    },
+    "type": "ruler"
+  }
+}

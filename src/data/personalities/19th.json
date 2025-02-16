@@ -1,0 +1,9 @@
+﻿{  "1859-1939":
+  {
+    "name": "FREUD",
+    "type": "scientist",
+    "description": {
+      "fr": "Neurologue et psychiâtre autrichien. Étudia les techniques hypnotiques de Charcot à Paris et de Bernheim à Nancy. Découvrit la cause des maladies psychiques dans les pulsions de l'instinct refoulées hors du conscient. Travailla avec le Viennois Breuer sur l'hystérie et guérit les symptômes hystériques en ramenant à la conscience et en élaborant ce matériel inconscient. Substitua à son précédé primitif de l'hypnose l'élucidation des rêves et des actes manqués du patient menée au moyen d'une conversation sans aucune réserve et d'une rémémoration du passé oublié. Il fit de cette méthode un système thérapeutique et même philosophique réduisant les problèmes individuels et collectifs à la vie des instincts, de l'instinct sexuel en particulier (libido)."
+    }
+  }
+}

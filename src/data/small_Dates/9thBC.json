@@ -1,0 +1,363 @@
+﻿{
+  "896BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "En Chine on imprime au\nmoyen de plaques de pierre"
+      }
+    }
+  ],
+  "894BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "Les armées assyriennes soumettent\nles Etats araméens limitrophes"
+      }
+    },
+    {
+      "type": "politics",
+      "description": {
+        "fr": "La puissance assyrienne débor-\nde le territoire de la cité-état"
+      }
+    }
+  ],
+  "891BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Aux Indes on élève une colonne de\nfer inoxydable de quinze mètres"
+      }
+    }
+  ],
+  "889BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Le chant de Linux passe\nd'Asie Mineure en Grèce"
+      }
+    }
+  ],
+  "885BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "En Assyrie on commence à fa-\nbriquer des haches en fer"
+      }
+    }
+  ],
+  "882BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Machines de guerre en Assyrie\n(béliers, tours mobiles"
+      }
+    }
+  ],
+  "878BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Erection d'une statue de pierre\ndu roi Assur Nasir-apli Il"
+      }
+    }
+  ],
+  "877BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "La Mésopotamie moins Babylone\nincorporée à l'Empire assyrien"
+      }
+    }
+  ],
+  "876BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "L'assyrie bar l'armée syrienne\nsous Assur Nasir-apli"
+      }
+    }
+  ],
+  "875BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Les Grecs emploient des carac-\ntères pour figurer les voyelles"
+      }
+    }
+  ],
+  "873BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Achèvement à Calach du palais\n royal d'Assur Nasir-apli Il"
+      }
+    }
+  ],
+  "872BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Introduction dans le royaume 'Is-\nraël du culte phénicien de Baal"
+      }
+    }
+  ],
+  "870BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Un temple de Baal est élevé\nen Israël (Samarie)"
+      }
+    }
+  ],
+  "869BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "En Assyrie, premières forma-\ntiens tactiques de cavalerie"
+      }
+    }
+  ],
+  "866BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "Conquêtes assyriennes à travers\nle sud de l'Asie Mineure"
+      }
+    }
+  ],
+  "865BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Le premier jardin zoologique\nest créé par le roi d'Assyrie"
+      }
+    }
+  ],
+  "8636BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Stèle de victoire du roi Mésa avec\npremière écriture hébraïque"
+      }
+    }
+  ],
+  "858BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Les nouveaux contigents ass-\nyriens sont dotés d'armes en fer"
+      }
+    }
+  ],
+  "857BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Elie condamne le culte de Baal\ncomme religion des riches"
+      }
+    }
+  ],
+  "854BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "Vaine guerrre des Assyriens contre\narmées alliées d'Asie Antérieure"
+      }
+    }
+  ],
+
+  "850BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Fabrication en Assyrie d'étriers\nfaits de planches et de cordes"
+      }
+    }
+  ],
+
+  "843BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "L'oracle de Delphes devient\nun centre panhellénique"
+      }
+    }
+  ],
+  "842BC": [
+    {
+      "type": "revolution",
+      "description": {
+        "fr": "Succès du soulèvement contre la\nmaison royale d'Israël"
+      }
+    },{
+      "type": "politics",
+      "description": {
+        "fr": "Fin du culte phénicien de Baal\nau royaume d'Israël"
+      }
+    }
+  ],
+  "841BC": [
+    {
+      "type": "revolution",
+      "description": {
+        "fr": "En Chine succès de la révolte\ncontre le cruel roi Li-Wang"
+      }
+    },{
+      "type": "politics",
+      "description": {
+        "fr": "Athalie, première femme sur\nle thrône de Juda"
+      }
+    },
+    {
+      "type": "technique",
+      "description": {
+        "fr": "En Chine on protège villes et terri-\ntoires par des fossés"
+      }
+    }
+  ],
+  "835BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Le dernier temple de Baal en\nJuda (Jérusalem) est détruit"
+      }
+    }
+  ],
+  "833BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "L'obélisque noir de Salmanassar\nest érigé à Calach (Tigre)"
+      }
+    }
+  ],
+  "828BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Construction sur la colline Balawât\ndu palais royal de Salmanassar"
+      }
+    }
+  ],
+  "827BC": [
+    {
+      "type": "revolution",
+      "description": {
+        "fr": "Succès de l'insurrection contre\nle roi d'Assyrie Salmanassar III"
+      }
+    },
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Le pouvoir de Salmanassar III ré-\nduit à un étroit territoire (Calach)"
+      }
+    }
+  ],
+  "826BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Les terres de Sparte réparties\nentre 4.500 familles dominantes"
+      }
+    }
+  ],
+  "822BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "Les Chinois, attaqués par les Huns,\nles battent et les repoussent"
+      }
+    }
+  ],
+  "820BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "La population de Sparte divisé en\nSpartiates, Périèques et Hilotes"
+      }
+    },
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Elisée réclame la suppression des\ncorvées et de l'esclavage"
+      }
+    },
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Sparte limite le droit des parti-culiers à disposer de leurs terres"
+      }
+    }
+  ],
+  "819BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "À Sparte le pouvoir royal est\nrestreint en faveur de la noblesse"
+      }
+    }
+  ],
+  "817BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "À Sparte l'éducation des filles et\ndes garçons passe à l'État"
+      }
+    }
+  ],
+  "814BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Fondation de Carthage en Afrique\ndu Nord par les Phéniciens"
+      }
+    }
+  ],
+
+  "810BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "En Chine on protège villes et\nterritoires par des fossés"
+      }
+    }
+  ],
+  "809BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "Campagne victorieuse des Assyri-\nens contre la Médie sous Sémiramis"
+      }
+    },
+    {
+      "type": "politics",
+      "description": {
+        "fr": "La Médie jusqu'à la Mer Caspi-enne incorporée a l'Assyrie"
+      }
+    }
+  ],
+  "803BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Échanges commerciaux entre bassin\nméditerranéen et Europe du Nord"
+      }
+    }
+  ],
+  "802BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Les Upanishads indiens enseignent l'unité\nde l'âme cosmique et de l'âme individuelle"
+      }
+    }
+  ],
+  "800BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Aux Indes le métier de médecin\nn'est plus réservé aux prêtres"
+      }
+    }
+  ]
+}

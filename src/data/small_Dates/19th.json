@@ -1,0 +1,58 @@
+﻿{
+  "1851": [
+    {
+      "description": {
+        "fr": "Coup d'Etat\nde Louis Napoléon\n(2 Décembre)"
+      },
+      "type": "war"
+    },
+    {
+      "description": {
+        "fr": "Rétablissement\nde la Confédération\nallemande assouplie"
+      },
+      "type": "war"
+    },
+    {
+      "description": {
+        "fr": "Melville:\nMoby Dick,\nroman"
+      },
+      "type": "civilisation"
+    },
+    {
+      "description": {
+        "fr": "Heine:\nRomanzero,\npoèmes"
+      },
+      "type": "civilisation"
+    },
+    {
+      "description": {
+        "fr": "Sainte-Beuve:\nCauseries\ndu Lundi"
+      },
+      "type": "civilisation"
+    },
+    {
+      "description": {
+        "fr": "Verdi:\nRigoletto\nopéra"
+      },
+      "type": "civilisation"
+    },
+    {
+      "description": {
+        "fr": "1ère exposi-\ntion universelle\n(Londres)"
+      },
+      "type": "technique"
+    },
+    {
+      "description": {
+        "fr": "Mines d'or\nen Australie"
+      },
+      "type": "technique"
+    },
+    {
+      "description": {
+        "fr": "1er plâtre\npour mem-\nbre fracturé"
+      },
+      "type": "technique"
+    }
+  ]
+}

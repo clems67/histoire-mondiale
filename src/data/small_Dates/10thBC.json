@@ -1,0 +1,302 @@
+﻿{
+  "1000BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "L'armée du Roi David de Juda bat les Philistins."
+      }
+    }
+  ],
+  "999BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Les Phéniciens fondent à Chypre\nun nouveau comptoire: Citium"
+      }
+    }
+  ],
+  "998BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Jérusalem, conquise depuis peu,\ncapitale du Royaume de Juda."
+      }
+    }
+  ],
+  "997BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Fondation de la ville de Pékin\nen Chine sous le nom de \"Ki\"."
+      }
+    }
+  ],
+  "995BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Débuts d'une résolution des tri-\nangles et des racines en Chine"
+      }
+    }
+  ],
+  "992BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Nouvelle ville sur l'emplacement\nde Troie détruite par les Grecs"
+      }
+    }
+  ],
+  "990BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "L'armée du Roi David de Juda\nvictorieuse de la ville d'Ammon"
+      }
+    }
+  ],
+  "988BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "L'art des tapis tissé pénètre\nen Phrygie (Asie Mineure)"
+      }
+    }
+  ],
+  "983BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Début de l'établissement des\nEstrusques en Italie centrale"
+      }
+    }
+  ],
+  "979BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "Armées de Juda conquièrent sous\nDavid bandes côtières sur Mer Rouge"
+      }
+    },
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Avec Elana sur la Mer Rouge,\nla Palestine a un port vers l'Inde"
+      }
+    },
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Les Grecs fondent Milet en Asie\nMineure et onze autres villes"
+      }
+    }
+  ],
+  "978BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Les Phéniciens teignent les tissus\navec le pourpre du murex"
+      }
+    }
+  ],
+  "973BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Hiram fournit au roi David bois\nde charpente contre huile et blé"
+      }
+    }
+  ],
+  "970BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Achèvement du palais du Roi\nSalomon à Jérusalem"
+      }
+    },
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Charpentiers et tailleurs de\npierre phéniciens à Jérusalem"
+      }
+    }
+  ],
+  "967BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Construction d'un canal pour ap-\nprovisionner en eau Jérusalem"
+      }
+    }
+  ],
+  "960BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Les Grecs s'emparent de Les-\nbos et d'autres îles égéennes"
+      }
+    },
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Augmentation des taxes par le roi\nSalomon ('districts d'impôts' en Juda)"
+      }
+    }
+  ],
+  "956BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Orchestre professionnel pour le\nTemple et la Cour à Jérusalem"
+      }
+    }
+  ],
+  "954BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "A Juda: recueil de cantiques:\n\"Le livre des guerres de Jahveh\""
+      }
+    }
+  ],
+  "950BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Achèvement du Livre de Sa-\ngesse indien: \"Rigvéda\""
+      }
+    },
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Le Palatin, première des sept\ncollines de Rome, habitée"
+      }
+    }
+  ],
+  "948BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Voyage d'exploration des Phéni-\nciens vers l'Inde par la Mer Rouge"
+      }
+    }
+  ],
+  "946BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Achèvement du coûteux Palais\ndes femmes du Roi Salomon"
+      }
+    }
+  ],
+  "945BC": [
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Sheshong unifie sous son pouvoir\nl'Egypte en décomposition"
+      }
+    }
+  ],
+  "939BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Expéditions des Chinois en\ndirection de l'Ouest"
+      }
+    }
+  ],
+  "936BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "A Juda, recueil de chants d'a-\nmour (\"Cantique des cantiques\")"
+      }
+    }
+  ],
+  "935BC": [
+    {
+      "type": "revolution",
+      "description": {
+        "fr": "Echec du soulèvement du peuple\nde Juda contre Salomon"
+      }
+    }
+  ],
+  "934BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Ahia réclame au nom de Dieu\nla rénovation sociale de Juda"
+      }
+    }
+  ],
+  "933BC": [
+    {
+      "type": "revolution",
+      "description": {
+        "fr": "Nouveau soulèvement du peuple\nde Juda contre le despotisme royal"
+      }
+    },
+    {
+      "type": "politics",
+      "description": {
+        "fr": "Onze tribus séparées de Juda\nfondent le royaume d'Israël"
+      }
+    }
+  ],
+  "929BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Expéditions commerciales phénici-ennes vers la côte est d'Afrique"
+      }
+    }
+  ],
+  "928BC": [
+    {
+      "type": "war",
+      "description": {
+        "fr": "Prise et sac de Jérusalem par les\nEgyptions sous Sheshong"
+      }
+    }
+  ],
+  "925BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "A Juda, recueil de chants: \"Le\nlivre du Juste\""
+      }
+    }
+  ],
+  "921BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "En Asie Mineure les Phrygiens\ninventent la broderie"
+      }
+    }
+  ],
+  "918BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Construction à Olympie d'un temple à la déesse Héra"
+      }
+    }
+  ],
+  "905BC": [
+    {
+      "type": "civilisation",
+      "description": {
+        "fr": "Construction à la point Sud de la\nGrèce d'un temple au Dieu Posseidon"
+      }
+    }
+  ],
+  "903BC": [
+    {
+      "type": "technique",
+      "description": {
+        "fr": "Les Grecs adoptent l'alphabet\nphénicien"
+      }
+    }
+  ]
+}
